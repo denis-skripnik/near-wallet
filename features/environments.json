@@ -2,5 +2,7 @@
   "DEVELOPMENT": "development",
   "TESTNET": "testnet",
   "MAINNET": "mainnet",
-  "MAINNET_STAGING": "mainnet_STAGING"
+  "MAINNET_STAGING": "mainnet_STAGING",
+  "TESTNET_AWS": "testnet_AWS",
+  "TESTNET_AWS_STAGING": "testnet_AWS_STAGING"
 }
